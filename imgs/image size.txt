@@ -1,0 +1,2 @@
+the normal welcome page image size is 1024x1024
+and the card image size is 211x148

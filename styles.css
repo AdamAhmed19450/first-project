@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hello{
+    width: 100%;
+    .title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .carddd{
+        width: 70%;
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+        gap: 20px;
+    }
+}
+.adam{
+    margin-top: 15px;
+}
